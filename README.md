@@ -1,4 +1,4 @@
-# Crud App
+# Blog App
 Crie uma API REST de CRUD de um Blog com posts públicos e privados (título, texto, autor, categoria, tags)
 Os posts privados só podem ser lidos por quem tem pelo menos 7 dias de cadastro no blog.
 
