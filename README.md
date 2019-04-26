@@ -2,7 +2,7 @@
 Crie uma API REST de CRUD de um Blog com posts públicos e privados (título, texto, autor, categoria, tags)
 Os posts privados só podem ser lidos por quem tem pelo menos 7 dias de cadastro no blog.
 
-## Requisito
+## Requisitos
 - Desenvolver em PHP e usando MySQL
 - Criar métodos de listagem, adição, edição e exclusão de posts
 - A api deverá responder em JSON
