@@ -17,7 +17,6 @@ Os posts privados só podem ser lidos por quem tem pelo menos 7 dias de cadastro
 - SOLID
 - Utilizar o Laravel
 - Repository Pattern
-- Build com Docker
 
 ## Como entregar
 Crie um repositório no github e adicione o usuário danpalmieri com permissões de leitura.
